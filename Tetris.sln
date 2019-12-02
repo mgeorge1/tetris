@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tetris", "Tetris\Tetris.csproj", "{DD81AE47-EA56-4E3B-830A-6948A03729C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD81AE47-EA56-4E3B-830A-6948A03729C7}.Debug|ARM.ActiveCfg = Debug|ARM
+		{DD81AE47-EA56-4E3B-830A-6948A03729C7}.Debug|ARM.Build.0 = Debug|ARM
+		{DD81AE47-EA56-4E3B-830A-6948A03729C7}.Debug|ARM.Deploy.0 = Debug|ARM
+		{DD81AE47-EA56-4E3B-830A-6948A03729C7}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{DD81AE47-EA56-4E3B-830A-6948A03729C7}.Debug|ARM64.Build.0 = Debug|ARM64
+		{DD81AE47-EA56-4E3B-830A-6948A03729C7}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{DD81AE47-EA56-4E3B-830A-6948A03729C7}.Debug|x64.ActiveCfg = Debug|x64
+		{DD81AE47-EA56-4E3B-830A-6948A03729C7}.Debug|x64.Build.0 = Debug|x64
+		{DD81AE47-EA56-4E3B-830A-6948A03729C7}.Debug|x64.Deploy.0 = Debug|x64
+		{DD81AE47-EA56-4E3B-830A-6948A03729C7}.Debug|x86.ActiveCfg = Debug|x86
+		{DD81AE47-EA56-4E3B-830A-6948A03729C7}.Debug|x86.Build.0 = Debug|x86
+		{DD81AE47-EA56-4E3B-830A-6948A03729C7}.Debug|x86.Deploy.0 = Debug|x86
+		{DD81AE47-EA56-4E3B-830A-6948A03729C7}.Release|ARM.ActiveCfg = Release|ARM
+		{DD81AE47-EA56-4E3B-830A-6948A03729C7}.Release|ARM.Build.0 = Release|ARM
+		{DD81AE47-EA56-4E3B-830A-6948A03729C7}.Release|ARM.Deploy.0 = Release|ARM
+		{DD81AE47-EA56-4E3B-830A-6948A03729C7}.Release|ARM64.ActiveCfg = Release|ARM64
+		{DD81AE47-EA56-4E3B-830A-6948A03729C7}.Release|ARM64.Build.0 = Release|ARM64
+		{DD81AE47-EA56-4E3B-830A-6948A03729C7}.Release|ARM64.Deploy.0 = Release|ARM64
+		{DD81AE47-EA56-4E3B-830A-6948A03729C7}.Release|x64.ActiveCfg = Release|x64
+		{DD81AE47-EA56-4E3B-830A-6948A03729C7}.Release|x64.Build.0 = Release|x64
+		{DD81AE47-EA56-4E3B-830A-6948A03729C7}.Release|x64.Deploy.0 = Release|x64
+		{DD81AE47-EA56-4E3B-830A-6948A03729C7}.Release|x86.ActiveCfg = Release|x86
+		{DD81AE47-EA56-4E3B-830A-6948A03729C7}.Release|x86.Build.0 = Release|x86
+		{DD81AE47-EA56-4E3B-830A-6948A03729C7}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81E18C77-4BA5-41F6-8402-043D0CFBAE16}
+	EndGlobalSection
+EndGlobal
